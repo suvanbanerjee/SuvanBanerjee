@@ -5,7 +5,7 @@ I am currently exploring different domains of technologies from both hardware an
 
 ### 🧐 Some Things About Me
 - 💼 Student at Dayananda Sagar College of Engineering
-- 🌐 Exists somewhere on [Linkedin](https://linkedin.com/suvanbanerjee).
+- 🌐 Exists somewhere on [Linkedin](https://linkedin.com/in/suvanbanerjee).
 - 😄 Pronouns: He/His ♂️
 - 🖥️ Coding Environment: Light💡 + Music🎧 + Water💧
 - ⚡ Fun facts: Speaks English, Hindi, Bengali. Codes using NeoVim and ❤️🐧. BTw I UsE ARcH!
