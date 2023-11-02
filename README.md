@@ -8,4 +8,4 @@ I am currently exploring different domains of technologies from both hardware an
 - 🌐 Exists somewhere on [Linkedin](https://linkedin.com/in/suvanbanerjee).
 - 😄 Pronouns: He/His ♂️
 - 🖥️ Coding Environment: Light💡 + Music🎧
-- ⚡ Fun facts: Speaks English, Hindi, Bengali. Codes using NeoVim and Sometimes VScode ❤️🐧. BTw I UsE ARcH!
+- ⚡ Fun facts: Speaks English, Hindi, Bengali. Codes using VScode and Sometimes NeoVim ❤️🐧. BTw I UsE ARcH!
