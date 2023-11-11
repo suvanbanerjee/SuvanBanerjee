@@ -13,15 +13,8 @@
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvanbanerjee&layout=compact" alt="Suvan's Streak Stats" />
-
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suvanbanerjee&show_icons=true" alt="Suvan's github stats" />
 </p>
-
-
-
 
 ### 🧐 Some Things About Me
 - 💼 Student at Dayananda Sagar College of Engineering
