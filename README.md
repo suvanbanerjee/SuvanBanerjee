@@ -6,7 +6,7 @@
 ### 📫 How to reach me
 
 - Email: suvanbanerjee@outlook.com
-- Portfolio: [about.me/suvan](https://about.me/suvan)
+- Portfolio: [suvanbanerjee.github.io](https://suvanbanerjee.githib.io)
 - LinkedIn: [linkedin.com/in/suvanbanerjee](https://linkedin.com/in/suvanbanerjee)
 - 📝 Resume: [suvanbanerjee.github.io/Resume](https://suvanbanerjee.github.io/Resume)
 
