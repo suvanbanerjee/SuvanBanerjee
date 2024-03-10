@@ -8,7 +8,7 @@
 - Email: suvanbanerjee@outlook.com
 - Portfolio: [suvanbanerjee.github.io](https://suvanbanerjee.github.io)
 - LinkedIn: [linkedin.com/in/suvanbanerjee](https://linkedin.com/in/suvanbanerjee)
-- 📝 Resume: [suvanbanerjee.github.io/Resume](https://suvanbanerjee.github.io/Resume)
+- 📝 Resume: [suvanbanerjee.github.io/Resume](https://suvanbanerjee.github.io/resume)
 
 ### 📊 Github Stats
 
@@ -21,4 +21,4 @@
 - 🌐 Exists somewhere on [Linkedin](https://linkedin.com/in/suvanbanerjee).
 - 😄 Pronouns: He/His ♂️
 - 🖥️ Coding Environment: Dark + Music🎧
-- ⚡ Fun facts: Speaks English, Hindi, Bengali, Marwari. Codes using VScode and Sometimes NeoVim ❤️🐧.
+- ⚡ Fun facts: Speaks English, Hindi, Bengali. Codes using VScode and Sometimes NeoVim ❤️🐧.
