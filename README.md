@@ -1,14 +1,16 @@
 [![I❤️8bit](https://i.postimg.cc/3rbfwKVs/banner-8bit.jpg)](https://postimg.cc/hhT1yqSs)
 ### 👋 नमस्ते world!
 
- I'm Suvan,19 years old currently in sophomore year residing in Namma Bengaluru and I'm presently delving into various aspects of technology, encompassing hardware and software. I've been immersing myself in the world of AI/ML, Networking, Sensors, IoT and I'm also diving into the inner workings of computers, right down to the transistor level in the software realm. I've been making headway in areas like cybersecurity, and Linux, and I'm familiar with the fundamentals of basic Web development, Python, and C/C++.
+Hey there! I'm Suvan, a 20-year-young sophomore living in ಬೆಂಗಳೂರು (Bengaluru 🇮🇳). I love making 🖥️ go beep boop! When I'm not doing that, you'll probably find me binging movies or shows (アニメ for the win!) or getting lost in a books.
+
+Professionally, I'm a full-stack intern at BurdenOff and an open-source contributor at various places. I'm also part of PointBlank, a gang of coding enthusiasts who love to build cool stuff. Currently, I'm diving into the world of LLMs and AI, trying to make sense of all that futuristic magic ✨.
 
 ### 📫 How to reach me
 
-- Email: suvanbanerjee@outlook.com
+- Email: suvanbanerjee@outlook.com / banerjeesuvan@gmail.com
 - Portfolio: [suvanbanerjee.github.io](https://suvanbanerjee.github.io)  [(Mirror)](https://suvanbanerjee.vercel.app/)
-- LinkedIn: [linkedin.com/in/suvanbanerjee](https://linkedin.com/in/suvanbanerjee)
-- 📝 Resume: [suvanbanerjee.github.io/Resume](https://suvanbanerjee.github.io/resume)
+- Linkedin: [linkedin.com/in/suvanbanerjee](https://linkedin.com/in/suvanbanerjee)
+- Resume: [suvanbanerjee.github.io/Resume](https://suvanbanerjee.github.io/resume)
 
 ### 📊 Github Stats
 
