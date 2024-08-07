@@ -1,7 +1,7 @@
 [![I❤️8bit](https://i.postimg.cc/3rbfwKVs/banner-8bit.jpg)](https://postimg.cc/hhT1yqSs)
 ### 👋 नमस्ते world!
 
-Hey there! I'm Suvan, a 20-year-young sophomore living in ಬೆಂಗಳೂರು (Bengaluru 🇮🇳). I love making 🖥️ go beep boop! When I'm not doing that, you'll probably find me binging movies or shows (アニメ for the win!) or getting lost in a books.
+Hey there! I'm Suvan, a 20-year-young sophomore living in ಬೆಂಗಳೂರು (Bengaluru 🇮🇳). I are programmer I love making 🖥️ go beep boop! My primary coding language is Python, but I’m also skilled in C/C++, Bash, JavaScript, Tailwind and both frontend and backend development.  When I'm not doing that, you'll probably find me binging movies or shows (アニメ for the win!) or getting lost in a books. 
 
 Professionally, I'm a full-stack intern at BurdenOff and an open-source contributor at various places. I'm also part of PointBlank, a gang of coding enthusiasts who love to build cool stuff. Currently, I'm diving into the world of LLMs and AI, trying to make sense of all that futuristic magic ✨.
 
@@ -14,9 +14,7 @@ Professionally, I'm a full-stack intern at BurdenOff and an open-source contribu
 
 ### 📊 Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvanbanerjee&show_icons=true" alt="Suvan's github stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=suvanbanerjee&show_icons=true" alt="Suvan's github stats" />
 
 ### 🧐 Some Things About Me
 - 💼 Student at Dayananda Sagar College of Engineering
