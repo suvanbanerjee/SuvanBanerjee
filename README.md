@@ -9,6 +9,7 @@ Professionally, I'm a full-stack intern at BurdenOff and an open-source contribu
 
 - Email: suvanbanerjee@outlook.com / banerjeesuvan@gmail.com
 - Portfolio: [suvanbanerjee.github.io](https://suvanbanerjee.github.io)  [(Mirror)](https://suvanbanerjee.vercel.app/)
+- Schedule a Call [Calendly](https://calendly.com/suvanbanerjee)
 - Linkedin: [linkedin.com/in/suvanbanerjee](https://linkedin.com/in/suvanbanerjee)
 - Resume: [suvanbanerjee.github.io/Resume](https://suvanbanerjee.github.io/resume)
 
