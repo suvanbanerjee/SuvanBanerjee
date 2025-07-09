@@ -1,25 +1,28 @@
-[![I❤️8bit](https://i.postimg.cc/3rbfwKVs/banner-8bit.jpg)](https://postimg.cc/hhT1yqSs)
 ### 👋 नमस्ते world!
 
-Hey there! I'm Suvan, a 20-year-young sophomore living in ಬೆಂಗಳೂರು (Bengaluru 🇮🇳). I are programmer I love making 🖥️ go beep boop! My primary coding language is Python, but I’m also skilled in C/C++, Bash, JavaScript, Tailwind and both frontend and backend development.  When I'm not doing that, you'll probably find me binging movies or shows (アニメ for the win!) or getting lost in a books. 
+Hi, I'm Suvan Banerjee, a 20-year-young Information Science student from Bengaluru, India 🇮🇳. I code komputers (yes, the fun kind). My primary language is Python, but I also work extensively with JavaScript/TypeScript, Bash and both frontend and backend stacks.
 
-Professionally, I'm a full-stack intern at BurdenOff and an open-source contributor at various places. I'm also part of PointBlank, a gang of coding enthusiasts who love to build cool stuff. Currently, I'm diving into the world of LLMs and AI, trying to make sense of all that futuristic magic ✨.
+When I’m not coding, you’ll probably find me binge-watching shows or hacking on side projects.
+Feel free to check out some of my pinned projects if you're curious to dive deeper!
 
-### 📫 How to reach me
 
-- Email: suvanbanerjee@outlook.com / banerjeesuvan@gmail.com
-- Portfolio: [suvanbanerjee.github.io](https://suvanbanerjee.github.io)  [(Mirror)](https://suvanbanerjee.vercel.app/)
+### How to reach me
+
+- Email: banerjeesuvan@gmail.com
+- Portfolio: [suvanbanerjee.me](https://suvanbanerjee.me)  [(Mirror)](https://suvanbanerjee.vercel.app/)
 - Schedule a Call [Calendly](https://calendly.com/suvanbanerjee)
 - Linkedin: [linkedin.com/in/suvanbanerjee](https://linkedin.com/in/suvanbanerjee)
-- Resume: [suvanbanerjee.github.io/Resume](https://suvanbanerjee.github.io/resume)
+- Resume : [suvanbanerjee.me/resume](https://suvanbanerjee.github.io/resume) Hire me ;)
 
-### 📊 Github Stats
-
+### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=suvanbanerjee&show_icons=true" alt="Suvan's github stats" />
 
-### 🧐 Some Things About Me
-- 💼 Student at Dayananda Sagar College of Engineering
-- 🌐 Exists somewhere on [Linkedin](https://linkedin.com/in/suvanbanerjee).
-- 😄 Pronouns: He/His ♂️
-- 🖥️ Coding Environment: Dark + Music🎧
-- ⚡ Fun facts: Speaks English, Hindi, Bengali. Codes using VScode and Sometimes NeoVim ❤️🐧.
+### TL;DR
+- **Student** at Dayananda Sagar College of Engineering, studying Information Science
+- Connect on [LinkedIn](https://linkedin.com/in/suvanbanerjee)
+- **Languages**: Fluent in English, Hindi, and Bengali
+- **Tools I Use**: Mostly VS Code, sometimes NeoVim ❤️🐧 and Claude or ChatGPT when stuck
+- **Currently Working On**: Cloud visualization tools, sensor data pipelines, and scalable systems using FastAPI
+- **What I Like**: Backend systems, AI Stuff, open source, climate tech, building things that help people, and fun little side projects
+
+![image](https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif)
