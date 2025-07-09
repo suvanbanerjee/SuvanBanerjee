@@ -24,5 +24,5 @@ Feel free to check out some of my pinned projects if you're curious to dive deep
 - **Tools I Use**: Mostly VS Code, sometimes NeoVim ❤️🐧 and Claude or ChatGPT when stuck
 - **Currently Working On**: Cloud visualization tools, sensor data pipelines, and scalable systems using FastAPI
 - **What I Like**: Backend systems, AI Stuff, open source, climate tech, building things that help people, and fun little side projects
-
-![heytux](https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif)
+<br/><br/>
+<img src="https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif" alt="heytux" width="70"/>
