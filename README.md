@@ -25,4 +25,4 @@ Feel free to check out some of my pinned projects if you're curious to dive deep
 - **Currently Working On**: Cloud visualization tools, sensor data pipelines, and scalable systems using FastAPI
 - **What I Like**: Backend systems, AI Stuff, open source, climate tech, building things that help people, and fun little side projects
 
-![image](https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif)
+![heytux](https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif)
