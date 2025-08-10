@@ -1,6 +1,6 @@
 ### 👋 नमस्ते world!
 
-Hi, I'm Suvan Banerjee, a 20-year-young Information Science student from Bengaluru, India 🇮🇳. I code komputers (yes, the fun kind). My primary language is Python, but I also work extensively with JavaScript/TypeScript, Bash and both frontend and backend stacks.
+Hi, I'm Suvan Banerjee, a 21-year-young Information Science student from Bengaluru, India 🇮🇳. I code komputers (yes, the fun kind). My primary language is Python, but I also work extensively with JavaScript/TypeScript, Bash and both frontend and backend stacks.
 
 When I’m not coding, you’ll probably find me binge-watching shows or hacking on side projects.
 Feel free to check out some of my pinned projects if you're curious to dive deeper!
@@ -26,3 +26,4 @@ Feel free to check out some of my pinned projects if you're curious to dive deep
 - **What I Like**: Backend systems, AI Stuff, open source, climate tech, building things that help people, and fun little side projects
 <br/><br/>
 <img src="https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif" alt="heytux" width="70"/>
+
