@@ -9,10 +9,10 @@ Feel free to check out some of my pinned projects if you're curious to dive deep
 ### How to reach me
 
 - Email: banerjeesuvan@gmail.com
-- Portfolio: [suvanbanerjee.me](https://suvanbanerjee.me)  [(Mirror)](https://suvanbanerjee.vercel.app/)
+- Portfolio: [suvanbanerjee.dev](https://suvanbanerjee.dev)  [(Mirror)](https://suvanbanerjee.vercel.app/)
 - Schedule a Call [Calendly](https://calendly.com/suvanbanerjee)
 - Linkedin: [linkedin.com/in/suvanbanerjee](https://linkedin.com/in/suvanbanerjee)
-- Resume : [suvanbanerjee.me/resume](https://suvanbanerjee.github.io/resume) Hire me ;)
+- Resume : [suvanbanerjee.dev/resume](https://suvanbanerjee.github.io/resume) Hire me ;)
 
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=suvanbanerjee&show_icons=true" alt="Suvan's github stats" />
